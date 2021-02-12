@@ -679,6 +679,9 @@ main {
 .btn:hover {
   color: #083b74;
 }
+p .btnBranches{
+  font-size: 1.5em;
+}
 .btn:hover:before {
   left: 0;
   opacity: 1;
